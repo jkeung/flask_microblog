@@ -1,2 +1,10 @@
 *.pyc
 app/*.pyc
+
+*.db
+flask
+*.mo
+
+/db_repository
+/tmp
+/app/.DS_Store
